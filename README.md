@@ -11,6 +11,10 @@ I recently graduated from college and am passionate about working with DevOps en
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat&logo=c%2B%20)
 ![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=c-share)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-blue?style=flat&logo=digital-ocean)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 
 ## 🌱 I'm Currently Learning
 
@@ -18,10 +22,6 @@ I recently graduated from college and am passionate about working with DevOps en
 - Kubernetes
 - Vue2
 - AuthO
-
-## 📫 How to Reach Me
-
-https://www.linkedin.com/in/brandon-simmons-145b88223/
 
 
 
