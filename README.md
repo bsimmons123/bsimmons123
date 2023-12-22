@@ -29,14 +29,6 @@ https://www.linkedin.com/in/brandon-simmons-145b88223/
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bsimmons123&show_icons=true&theme=radical)](https://github.com/bsimmons123)
 
-## 🚀 My Projects
-
-List some of your notable projects with brief descriptions.
-
-## 🎧 Currently Listening To
-
-Share your current favorite music or podcasts.
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/brandon-simmons-145b88223/)
