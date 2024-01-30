@@ -1,5 +1,11 @@
 # Hello, I'm Brandon! 👋
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bsimmons123/count.svg" />
+</p>
+
 ## About Me
 
 I recently graduated from college and am passionate about working with DevOps environments and backend services. I find joy in experimenting with homelab setups, exploring various server configurations, and tinkering with different Kubernetes and Docker environments. Currently, I'm fascinated by hosting services behind Cloudflare and leveraging Proxmox for virtualization. I'm excited about the intersection of infrastructure, automation, and cloud technologies, and I'm eager to continue learning and growing in these areas.
