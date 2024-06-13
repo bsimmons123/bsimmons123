@@ -6,7 +6,6 @@ If you have a problem I'll find your solution.
 
 - If you think you deserve it, you wont enjoy it
 - Nothing good ever came easily
-- If you are lonely when you're alone, you are in bad company -- Jean-Paul Sartre
 - Nothing great in the world has ever been accomplished without passion -- Georg Wilhelm Friedrich Hegel
 
 ## 🔧 Technologies & Tools
